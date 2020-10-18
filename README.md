@@ -3,7 +3,7 @@
 The purpose of this project was to understand and create an executable that enables the user to inject a dll into an externally running process.  
   
 **What I've Learned:**  
-  I got to understand the basic overview of .exe and .dll structures
+  I got to understand the basic overview of .exe and .dll structures  
   I learned various WINAPIs that specialize in memory or process management tasks.  
   
 **Contents:**  
